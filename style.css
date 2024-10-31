@@ -185,13 +185,14 @@ i{
 }
 @media (max-width :356px) {
 
-        #enter  {
+        #enter .test  {
                display: flex;
                justify-content: space-evenly;
             }
-                        #enter input{
+                        #enter .test input{
                            margin-right: 10px;
                         }
 }
+
 
 
