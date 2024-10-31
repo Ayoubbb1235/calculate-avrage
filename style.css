@@ -179,20 +179,27 @@ i{
     .module{
         padding-top: 10px;
         padding-bottom: 10px;
+        width: 100%;
     }
+                .module {
+                    padding-top: 10px;
+                    padding-bottom: 10px;
+                    width: 100%;
+                }
+
+
 
 
 }
-@media (max-width :356px) {
+@media (max-width :370px) {
 
         #enter .test  {
                display: flex;
                justify-content: space-evenly;
             }
-                        #enter .test input{
-                           margin-right: 10px;
+                        #enterCOf {
+                           margin-right: 17px;
                         }
 }
-
 
 
