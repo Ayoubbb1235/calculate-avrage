@@ -184,8 +184,9 @@ i{
 }
 @media (max-width :356px) {
 
-        #enter {
-                width: 95%;
+        #enter  {
+               display: flex;
+               justify-content: space-evenly;
             }
 }
 
