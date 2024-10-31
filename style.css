@@ -177,7 +177,8 @@ i{
         font-size: 1rem;
     }
     .module{
-        padding: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 
 
@@ -188,6 +189,9 @@ i{
                display: flex;
                justify-content: space-evenly;
             }
+                        #enter input{
+                           margin-right: 10px;
+                        }
 }
 
 
