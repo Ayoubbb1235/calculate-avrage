@@ -159,6 +159,7 @@ i{
 } 
 
 
+
 @media (max-width :580px ) {
     html{
         font-size: 13px;
@@ -178,4 +179,13 @@ i{
     .module{
         padding: 10px;
     }
+
 }
+@media (max-width :356px) {
+
+    #enter .Cof {
+        margin-right: 5%;
+    }
+}
+
+
